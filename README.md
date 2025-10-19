@@ -1,4 +1,1 @@
-# ab_project
-привет
-*** привет ***
-knkl
+# EDA_project
